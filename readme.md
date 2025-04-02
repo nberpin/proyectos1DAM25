@@ -6,4 +6,4 @@ Nelson Vera Cabrera - https://github.com/Walo721
 
 Jose Carlos González Herrera
 
-viccccccccccccccccccccc
+Víctor Pérez Sosa - (https://github.com/FanNum1CynthiaJudithAfonsoGarcia/proyectos1DAM25)
