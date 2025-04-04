@@ -19,3 +19,4 @@ Arturo Tovar - https://github.com/Arturo802
 
 Omar Rodríguez Rodríguez - https://github.com/orodrod
 
+Arianne Lucía Vázquez Corpas - https://github.com/AriVazcor
