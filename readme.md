@@ -17,3 +17,5 @@ Víctor Pérez Sosa - (https://github.com/FanNum1CynthiaJudithAfonsoGarcia/proye
 
 Arturo Tovar - https://github.com/Arturo802
 
+Omar Rodríguez Rodríguez - https://github.com/orodrod
+
