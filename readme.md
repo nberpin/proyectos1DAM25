@@ -2,7 +2,6 @@
 
 Lista de Alumnos
 
-
 Evelyn (https://github.com/EvelynSherlyn)
 
 Nelson Vera Cabrera - https://github.com/Walo721
@@ -14,6 +13,10 @@ Alejandro Brito - https://github.com/KalzKiw
 Alejandro Brito - https://github.com/Alexkiw
 
 Carlos: https://github.com/beacharlie
+
+Arturo Tovar - https://github.com/Arturo802
+
+Max -- (https://github.com/maxVGL)
 
 Víctor Pérez Sosa - (https://github.com/FanNum1CynthiaJudithAfonsoGarcia/proyectos1DAM25)
 
