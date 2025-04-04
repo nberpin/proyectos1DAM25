@@ -12,3 +12,5 @@ José Carlos González Herrera - https://github.com/JoseGlezHerrera
 Alejandro Brito - https://github.com/Alexkiw
 
 Carlos: https://github.com/beacharlie
+
+Arturo Tovar - https://github.com/Arturo802
