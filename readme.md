@@ -13,4 +13,7 @@ Alejandro Brito - https://github.com/Alexkiw
 
 Carlos: https://github.com/beacharlie
 
+Víctor Pérez Sosa - (https://github.com/FanNum1CynthiaJudithAfonsoGarcia/proyectos1DAM25)
+
 Arturo Tovar - https://github.com/Arturo802
+
