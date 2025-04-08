@@ -29,3 +29,5 @@ Omar Rodríguez Rodríguez - https://github.com/orodrod
 Arianne Lucía Vázquez Corpas - https://github.com/AriVazcor
 
 Jorge Agraso Reyes https://github.com/JorgeAgraso
+
+Keeanu Noe Hernandez Cubas https://github.com/keeanu-spec/
